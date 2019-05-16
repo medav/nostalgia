@@ -1,0 +1,38 @@
+  ________		 ____     ____	 ____     ____
+/   ______|		|    _ \/  _   |	|    _ \/  _   |
+|   |     _	arry's     	|   |  \_/   |  |  od 	|   |  \_/   |  |  aze 
+|   |___|   |		|   |         |  |	|   |         |  |
+\_________|		|___|       |___|	|___|       |___|
+________________________________________________________________
+                 / ================ \
+	   ||  -= Created by Thor =-	||
+	   ||	-Release v1-	||
+	   ||	-Map rev. 4-	||
+	    \================ /
+
+What is this?
+	This is maze, playing is simple, all you have to 
+	     do is find your way through the maze.
+
+Installation
+-Allow this to overwrite your second garrysmod folder.
+
+Notes:
+-the compass and tile textures are the only ones needed if you are 
+ going to use the latest map, older textures are used only for the older maps.
+-the maze v3 was never completed, due to problems i encountered with hammer
+ so i included the vmf files for who ever wants a peak at what is required of maze maps
+
+Stuff to come:
+- an easier way to add user generated perks, suprises, etc...
+- cleaner code
+- a path builder, that makes it so players dont easily get stuck
+- maybe my own models???
+- more suprises
+- more everyting!!
+
+Thanks for testing: 
+  -> HC Pirate Santa
+  -> Squeakers
+  -> Timmeh
+
